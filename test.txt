@@ -1,2 +1,3 @@
 I am a test text.
 Add another new line
+Add a new line
